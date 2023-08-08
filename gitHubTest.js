@@ -7,7 +7,8 @@ function dog() {
     console.log(`${dog},${age}`);
     console.log(`theseAreMyDogs`);
     console.log(`ok`);
-    
+    console.log(`comand`);
+
 
 
     
