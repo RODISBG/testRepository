@@ -6,6 +6,8 @@ function dog() {
     console.log(`${dogNew},${dogNewAge}`);
     console.log(`${dog},${age}`);
     console.log(`theseAreMyDogs`);
+    console.log(`ok`);
+    
 
 
     
