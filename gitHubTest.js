@@ -10,7 +10,9 @@ function dog() {
     console.log(`comand`);
     console.log(`pull`);
     console.log(`:)`);
+    console.log(`----`);
     
+
 
 
 
