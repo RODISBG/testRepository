@@ -4,7 +4,8 @@ function dog() {
     console.log(`${dog},${age}`);
     let dogNew = 'charlie';
     let dogNewAge = 10;
-    
+    console.log(`${dogNew},${dogNewAge}`);
+
     
 }
 dog()
