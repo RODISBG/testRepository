@@ -3,6 +3,8 @@ function dog() {
     let age = 9;
     console.log(`${dog},${age}`);
     let dogNew = 'charlie';
+    let dogNewAge = 10;
+    
     
 }
 dog()
