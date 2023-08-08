@@ -8,7 +8,10 @@ function dog() {
     console.log(`theseAreMyDogs`);
     console.log(`ok`);
     console.log(`comand`);
-    console.log(`push`);
+    console.log(`pull`);
+    console.log(`:)`);
+    
+
 
 
 
