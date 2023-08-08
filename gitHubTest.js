@@ -5,6 +5,8 @@ function dog() {
     let dogNewAge = 10;
     console.log(`${dogNew},${dogNewAge}`);
     console.log(`${dog},${age}`);
+    console.log(`theseAreMyDogs`);
+
 
     
 }
